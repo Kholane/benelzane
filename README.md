@@ -1,4 +1,4 @@
-# Getting Started with Create Benelzane portfolio
+# Getting Started Benelzane portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
