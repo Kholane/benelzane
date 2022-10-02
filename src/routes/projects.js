@@ -40,7 +40,7 @@ export default function Projects(){
       </div>
       <div className="col-lg-4">
         <div className="">
-          <a href="https://overcomingtobecoming.co.za/"><img src="img/overcoming.PNG" className="img-fluid" alt=""/></a>
+          <a href="https://kholane.github.io/JaneDoe/"><img src="img/janedoe.jpg" className="img-fluid" alt=""/></a>
         </div>
       </div>
       <div className="col-lg-4">
